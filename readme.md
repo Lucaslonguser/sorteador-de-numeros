@@ -1,12 +1,8 @@
-# Meu Primeiro Projeto
+# Sorteador de numeros 
+Nesse projeto a pessoa pode escolher a quantidade de numeros sorteadas e fazer com que elas vá de um numero x ao y
 
-Este projeto é uma aplicação web que ajuda usuários a organizarem suas tarefas diárias.
 
 ## Tecnologias Usadas
 - HTML
 - CSS
 - JavaScript
-
-## como usar
-
-https://github.com/Lucaslonguser/sorteador-de-numeros
